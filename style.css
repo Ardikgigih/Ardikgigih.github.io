@@ -6,11 +6,10 @@ body {
   background-color: #8acbf765;
 }
 
-#projects {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  background-color: #a2d9ff;
-}
-
 section {
   padding-top: 5rem;
+}
+
+#cv {
+  padding-top: rem;
 }
